@@ -1,0 +1,8 @@
+/*
+Theme Name: Foxy Child Theme
+Description: A child theme for saving custom code which modifies the Foxy parent theme by Elegant Themes. 
+Author:   Brad Dalton http://wpsites.net
+Template: Foxy
+*/
+
+@import url("../foxy/style.css");
